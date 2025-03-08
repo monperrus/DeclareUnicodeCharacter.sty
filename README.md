@@ -65,7 +65,7 @@ See the complete list in `successful-chars.pdf`.
 - Compatible with pdflatex
 - Not compatible with luatex
 - The package was created by extracting commands from `/usr/share/texmf/tex/texinfo/texinfo.tex`
-- See the test file `successful-chars.pdf` which demonstrates 508 successfully compiled characters
+- See the test file `successful-chars.pdf` which demonstrates 550+ successfully compiled characters
 - The repository includes `extract-test-file.py` containing utility test functions
 
 ## Contributing
